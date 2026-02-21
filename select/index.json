@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "人として軸がぶれている",
+  "base_artist": "大槻ケンヂと絶望少女達",
+  "createdAt": "2026-02-21T02:19:57.340589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人として軸がぶれている",
+      "artist": "特撮",
+      "has_synced": true,
+      "path": "select/01_人として軸がぶれている_特撮.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人として軸がぶれている",
+      "artist": "Tokusatsu",
+      "has_synced": true,
+      "path": "select/02_人として軸がぶれている_Tokusatsu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人として軸がぶれている",
+      "artist": "絶望少女達",
+      "has_synced": true,
+      "path": "select/03_人として軸がぶれている_絶望少女達.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "人として軸がぶれている",
+      "artist": "大槻ケンヂと絶望少女達(風浦可符香、木津千里、木村カエレ、関内・マリア・太郎、日塔奈美)",
+      "has_synced": true,
+      "path": "select/04_人として軸がぶれている_大槻ケンヂと絶望少女達(風浦可符香、木津千里、木村カエレ、関内・マリア・太郎、日塔奈美).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人として軸がぶれている(テレビサイズ)",
+      "artist": "Kenji Ohtsuki & Zetsubou Shoujotachi",
+      "has_synced": false,
+      "path": "select/05_人として軸がぶれている(テレビサイズ)_Kenji_Ohtsuki_&_Zetsubou_Shoujotachi.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "人として軸がぶれている",
+      "artist": "Kenji Ohtsuki & Zetsubou Shoujotachi",
+      "has_synced": false,
+      "path": "select/06_人として軸がぶれている_Kenji_Ohtsuki_&_Zetsubou_Shoujotachi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "人として軸がぶれている(歌無し)",
+      "artist": "Kenji Ohtsuki & Zetsubou Shoujotachi",
+      "has_synced": false,
+      "path": "select/07_人として軸がぶれている(歌無し)_Kenji_Ohtsuki_&_Zetsubou_Shoujotachi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人として軸がぶれている",
+      "artist": "大槻 ケンヂと絶望少女達",
+      "has_synced": false,
+      "path": "select/pl_01_人として軸がぶれている_大槻_ケンヂと絶望少女達.txt"
+    }
+  ]
+}
